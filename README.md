@@ -1,2 +1,3 @@
 # river
-这是一个测试仓库！
+This is a test to repository！
+This is the second amendment！
